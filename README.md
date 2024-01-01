@@ -22,7 +22,9 @@ Users must comply with all applicable laws and regulations when using KeyLogger.
 **Note:**
 KeyLogger is a personal project and should be used responsibly and ethically. Always obtain explicit permission before using this tool on any system.
 
-**Usage Instructions:**
-- git clone https://github.com/your-username/KeyLogger.git
-  - cd KeyLogger
--python   keylogger.py
+## Usage Instructions
+
+```bash
+git clone https://github.com/your-username/KeyLogger.git
+cd KeyLogger
+python keylogger.py

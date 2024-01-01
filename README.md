@@ -25,4 +25,4 @@ KeyLogger is a personal project and should be used responsibly and ethically. Al
 **Usage Instructions:**
 - git clone https://github.com/your-username/KeyLogger.git
   - cd KeyLogger
--python keylogger.py
+-python   keylogger.py

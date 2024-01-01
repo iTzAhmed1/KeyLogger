@@ -14,10 +14,15 @@ KeyLogger is a personal project developed for educational and research purposes.
 - Do not deploy KeyLogger without explicit permission.
 
 **Disclaimer:**
-As the sole developer of KeyLogger, I am not responsible for any misuse or legal consequences resulting from its use. Users are solely responsible for adhering to legal and ethical standards.
+As the developer of the KeyLogger, I am not responsible for any misuse or legal consequences resulting from its use. Users are solely responsible for adhering to legal and ethical standards.
 
 **Legal Compliance:**
 Users must comply with all applicable laws and regulations when using KeyLogger. Unauthorized use for malicious or illegal activities is strictly prohibited.
 
 **Note:**
 KeyLogger is a personal project and should be used responsibly and ethically. Always obtain explicit permission before using this tool on any system.
+
+**Usage Instructions:**
+- git clone https://github.com/your-username/KeyLogger.git
+  - cd KeyLogger
+-python keylogger.py

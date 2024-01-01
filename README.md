@@ -25,6 +25,6 @@ KeyLogger is a personal project and should be used responsibly and ethically. Al
 ## Usage Instructions
 
 ```bash
-git clone https://github.com/your-username/KeyLogger.git
+git clone https://github.com/iTzAhmed1/KeyLogger.git
 cd KeyLogger
 python keylogger.py
